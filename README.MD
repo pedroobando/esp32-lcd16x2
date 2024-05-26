@@ -21,7 +21,9 @@ Crea un contador el cual despliega la palabra "ROMANA:" y al lado coloca los num
 
 ## NOTA;
 
-En youtube se consigue mucha informacion, colocar esto:
+En Youtube se consigue mucha informacion, colocar esto:
+
+- [Video Informativo](https://www.youtube.com/watch?v=TQRdoMwgthY&list=LL&index=2)
 
 ```
   lcd 16x2 esp32 i2c
